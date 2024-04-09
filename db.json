@@ -1,0 +1,70 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel ABC",
+      "description": "Este es un hotel muy acogedor en el corazón de la ciudad.",
+      "image": "/img/hotel1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Hotel XYZ",
+      "description": "Disfruta de unas vacaciones de lujo en nuestro magnífico hotel.",
+      "image": "/img/hotel2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Hotel 123",
+      "description": "Un lugar perfecto para relajarse y disfrutar de la naturaleza.",
+      "image": "/img/hotel3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Hotel Estrella",
+      "description": "Descubre la elegancia y el confort en nuestro exclusivo hotel.",
+      "image": "/img/hotel4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Hotel Sol",
+      "description": "Disfruta de unas vistas impresionantes desde nuestro hotel junto al mar.",
+      "image": "/img/hotel5.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Hotel Ritz",
+      "description": "Hotel de Lujo",
+      "image": "/img/hotel6.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Hotel Ocean View",
+      "description": "A luxury hotel with stunning ocean views",
+      "image": "/img/hotel7.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Mountain Retreat Hotel",
+      "description": "Escape to the mountains and enjoy nature's beauty",
+      "image": "/img/hotel8.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "City Lights Hotel",
+      "description": "Experience the vibrant nightlife in the heart of the city",
+      "image": "/img/hotel9.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Desert Oasis Resort",
+      "description": "Relax and unwind in the tranquility of the desert",
+      "image": "/img/hotel10.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Historic Manor House Hotel",
+      "description": "Step back in time and indulge in luxury at our historic manor",
+      "image": "/img/hotel11.jpeg"
+    }
+  ]
+}
