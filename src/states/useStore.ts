@@ -13,14 +13,6 @@ interface HotelState {
   computed: { totalReservations: number };
 
   addReservation: (newReservation: Reservation) => void;
-
-  // increaseBlackBears: (by: number) => void;
-  // increasePolarBears: (by: number) => void;
-  // increasePandaBears: (by: number) => void;
-
-  // doNothing: () => void;
-  // addBear: () => void;
-  // clearBears: () => void;
 }
 
 export const useStore = create<HotelState>()((set, get) => ({
